@@ -41,4 +41,6 @@ This repository serves as:
 
 The roadmap follows an incremental, version-controlled evolution aligned with project implementation phases.
 
+I intentionally incorporate AI-assisted reasoning workflows into my learning process, using them to stress-test architectural decisions and accelerate structured problem-solving.
+
 **Structured feedback on roadmap architecture, progression logic, and AI/Product integration is welcome.**
