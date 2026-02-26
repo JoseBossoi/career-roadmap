@@ -32,8 +32,7 @@ This repository serves as:
 ## Repository Structure
 
 - `/docs` → GitHub Pages source (public roadmap visualization)
-- `/meta` → Supporting documentation (principles, feedback prompts, evolution notes)
-- `/CHANGELOG.md` → Evolution log of roadmap updates
+- `/meta` → Supporting documentation (feedback prompts)
 
 ---
 
