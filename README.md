@@ -9,7 +9,18 @@ The roadmap is structured, incremental, and project-driven, integrating:
 - Product thinking principles  
 - Architectural reasoning
 
-This repository connects to active implementation units. Work is currently underway on repositories such as **Mini-CRM Rural** and **MercadoRaiz**; these will be linked directly here upon release to ensure alignment between planning and execution."
+This repository connects to active implementation units. Work is currently underway on repositories such as **Mini-CRM Rural** and **MercadoRaiz**; these will be linked directly here upon release to ensure alignment between planning and execution.
+
+---
+
+## Implementation Units
+
+| Phase | Implementation Repository | Description |
+|------|------|------|
+| Phase 1 | Mini-CRM Rural | First functional CRUD and vertical SaaS validation |
+| Phase 2 | Mini-CRM Rural | Multi-user SaaS MVP |
+| Phase 3 | MercadoRaiz | AI-enabled vertical SaaS platform |
+| Phase 4 | MercadoRaiz | AI-centric architecture and scalable platform |
 
 ---
 
