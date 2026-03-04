@@ -9,7 +9,10 @@ The roadmap is structured, incremental, and project-driven, integrating:
 - Product thinking principles  
 - Architectural reasoning
 
-This repository connects to active implementation units. Work is currently underway on repositories such as **Mini-CRM Rural** and **MercadoRaiz**; these will be linked directly here upon release to ensure alignment between planning and execution.
+This repository intentionally documents the **early engineering and system-building process in public**.  
+The goal is not to present finished products yet, but to transparently show the disciplined evolution from **foundations to production-oriented systems**.
+
+Implementation work progresses in parallel through project repositories such as **Mini-CRM Rural** and, later, ***MercadoRaiz™***.
 
 ---
 
@@ -36,7 +39,7 @@ This repository serves as:
 
 - The architectural backbone of my technical evolution  
 - A structured learning blueprint  
-- A public, versioned evolution record
+- A public, versioned record of the engineering journey
 
 ---
 
