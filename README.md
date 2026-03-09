@@ -5,7 +5,7 @@ This repository contains my **public 36-month roadmap** for transitioning into *
 The roadmap is structured, incremental, and project-driven, integrating:
 
 - Technical skill progression  
-- AI-enhanced development practices  
+- AI-enhanced development practices, including reliability and guardrails for non-deterministic systems 
 - Product thinking principles  
 - Architectural reasoning
 
@@ -55,6 +55,8 @@ This repository serves as:
 The roadmap follows an incremental, version-controlled evolution aligned with project implementation phases.
 
 I intentionally incorporate AI-assisted reasoning workflows into my learning process, using them to stress-test architectural decisions and accelerate structured problem-solving.
+
+As this roadmap progresses, I will progressively incorporate validation checks, evaluation layers, and guardrails to ensure reliable behavior in AI-enabled applications.
 
 **Structured feedback on roadmap architecture, progression logic, and AI/Product integration is welcome.**
 Visit [Feedback Questions](meta/feedback-questions.md).
