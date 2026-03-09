@@ -29,7 +29,7 @@ Implementation work progresses in parallel through project repositories such as 
 
 ## 🌐 View the Interactive Roadmap
 
-👉 [GitHub Pages — Interactive Version](https://YOUR_USERNAME.github.io/career-roadmap/)
+👉 [GitHub Pages — Interactive Version](https://josebossoi.github.io/career-roadmap/)
 
 ---
 
@@ -57,3 +57,4 @@ The roadmap follows an incremental, version-controlled evolution aligned with pr
 I intentionally incorporate AI-assisted reasoning workflows into my learning process, using them to stress-test architectural decisions and accelerate structured problem-solving.
 
 **Structured feedback on roadmap architecture, progression logic, and AI/Product integration is welcome.**
+Visit [Feedback Questions](meta/feedback-questions.md).
