@@ -5,7 +5,7 @@ This directory contains selected projects developed while following **The Odin P
 ## Purpose
 
 * Present curated implementations of core web development concepts
-* Demonstrate practical application of HTML fundamentals
+* Demonstrate practical application of core web development fundamentals (HTML, CSS, basic JS)
 * Serve as part of a structured portfolio aligned with a long-term technical roadmap
 
 ## Structure
