@@ -12,6 +12,12 @@ This directory contains exercises and small projects developed while following *
 
 Each subdirectory represents a specific TOP lesson or project.
 
+## CSS Exercises
+
+CSS exercises are tracked in a separate repository:
+
+- [TOP-css-exercises](https://github.com/JoseBossoi/TOP-css-exercises)
+
 ## Notes
 
 This is a **development and experimentation environment**.
